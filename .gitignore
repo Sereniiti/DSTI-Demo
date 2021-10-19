@@ -1,3 +1,9 @@
+# DVC
+
+dvc/*
+!dvc/README.md
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
